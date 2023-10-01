@@ -7,12 +7,76 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/myTextView"
+
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+
         android:text="Hello World!"
+        android:textColor="#2196F3"
+        android:textSize="20sp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:gravity="center"
+
+        android:typeface="serif"
+        android:background="#34EE00"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:inputType="text"
+
+
+
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your name"
+
+        android:inputType="text"
+        android:textColor="#5D7BA4"
+
+        android:textSize="32sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/myTextView"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_editor_absoluteX="16dp" />
+
+    <Button
+        android:id="@+id/myButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:clickable="true"
+        android:enabled="true"
+        android:padding="30dp"
+        android:text="Click Me!"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/myTextView" />
+
+    <ImageView
+        android:id="@+id/myImg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:contentDescription="this is my img"
+        android:scaleType="centerCrop"
+        android:src="@drawable/photo"
+        app:layout_constraintBottom_toTopOf="@+id/editText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
