@@ -1,4 +1,4 @@
-package com.mastercoding.sportsapp;
+package com.example.sportsapp;
 
 // This class will act as a model class
 public class Sport {

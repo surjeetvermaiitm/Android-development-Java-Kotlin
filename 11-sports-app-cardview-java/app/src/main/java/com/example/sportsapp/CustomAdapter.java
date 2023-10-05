@@ -1,4 +1,4 @@
-package com.mastercoding.sportsapp;
+package com.example.sportsapp;
 
 import android.view.LayoutInflater;
 import android.view.View;

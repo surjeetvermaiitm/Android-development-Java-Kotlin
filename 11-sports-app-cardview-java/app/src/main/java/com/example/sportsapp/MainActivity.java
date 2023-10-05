@@ -1,4 +1,4 @@
-package com.mastercoding.sportsapp;
+package com.example.sportsapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
