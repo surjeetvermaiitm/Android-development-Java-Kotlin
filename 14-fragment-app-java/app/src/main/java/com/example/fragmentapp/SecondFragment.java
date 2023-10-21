@@ -1,4 +1,4 @@
-package com.mastercoding.fragmentsapp;
+package com.example.fragmentapp;
 
 import android.os.Bundle;
 

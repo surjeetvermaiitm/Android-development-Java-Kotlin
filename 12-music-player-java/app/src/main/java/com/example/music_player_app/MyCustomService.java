@@ -1,4 +1,4 @@
-package com.mastercoding.musicplayerapp;
+package com.example.music_player_app;
 
 import android.app.Service;
 import android.content.Intent;

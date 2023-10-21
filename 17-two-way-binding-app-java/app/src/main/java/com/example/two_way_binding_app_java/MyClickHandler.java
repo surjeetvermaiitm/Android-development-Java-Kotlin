@@ -1,4 +1,4 @@
-package com.mastercoding.databindingapp;
+package com.example.two_way_binding_app_java;
 
 import android.content.Context;
 import android.view.View;

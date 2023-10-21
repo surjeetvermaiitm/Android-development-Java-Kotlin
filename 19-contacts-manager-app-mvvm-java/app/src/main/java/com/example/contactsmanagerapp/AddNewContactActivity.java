@@ -1,4 +1,4 @@
-package com.mastercoding.contactsmanagerapp;
+package com.example.contactsmanagerapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
@@ -10,7 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.mastercoding.contactsmanagerapp.databinding.ActivityAddNewContactBinding;
+import com.example.contactsmanagerapp.databinding.ActivityAddNewContactBinding;
 
 public class AddNewContactActivity extends AppCompatActivity {
 

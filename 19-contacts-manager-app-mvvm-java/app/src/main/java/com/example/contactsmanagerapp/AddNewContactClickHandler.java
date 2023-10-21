@@ -1,4 +1,4 @@
-package com.mastercoding.contactsmanagerapp;
+package com.example.contactsmanagerapp;
 
 import android.content.Context;
 import android.content.Intent;

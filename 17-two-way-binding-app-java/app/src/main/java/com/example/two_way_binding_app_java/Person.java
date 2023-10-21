@@ -1,4 +1,4 @@
-package com.mastercoding.databindingapp;
+package com.example.two_way_binding_app_java;
 
 import androidx.databinding.BaseObservable;
 import androidx.databinding.Bindable;

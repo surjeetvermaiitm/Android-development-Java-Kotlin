@@ -1,11 +1,11 @@
-package com.mastercoding.databindingapp;
+package com.example.databindingapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
 import android.os.Bundle;
 
-import com.mastercoding.databindingapp.databinding.ActivityMainBinding;
+import com.example.databindingapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

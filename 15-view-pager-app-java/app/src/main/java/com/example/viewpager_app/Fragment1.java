@@ -1,4 +1,4 @@
-package com.mastercoding.viewpagerapp;
+package com.example.viewpager_app;
 
 import android.os.Bundle;
 

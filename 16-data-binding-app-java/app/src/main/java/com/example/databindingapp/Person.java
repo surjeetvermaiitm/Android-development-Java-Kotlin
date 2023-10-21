@@ -1,4 +1,4 @@
-package com.mastercoding.databindingapp;
+package com.example.databindingapp;
 
 public class Person {
 

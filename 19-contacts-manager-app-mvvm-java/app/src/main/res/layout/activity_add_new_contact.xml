@@ -10,11 +10,11 @@
     <data>
         <variable
             name="contact"
-            type="com.mastercoding.contactsmanagerapp.Contacts" />
+            type="com.example.contactsmanagerapp.Contacts" />
         
         <variable
             name="clickHandler"
-            type="com.mastercoding.contactsmanagerapp.AddNewContactClickHandler" />
+            type="com.example.contactsmanagerapp.AddNewContactClickHandler" />
     </data>
 
 

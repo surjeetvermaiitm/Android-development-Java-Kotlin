@@ -1,4 +1,4 @@
-package com.mastercoding.contactsmanagerapp;
+package com.example.contactsmanagerapp;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.mastercoding.contactsmanagerapp.databinding.ContactListItemBinding;
+import com.example.contactsmanagerapp.databinding.ContactListItemBinding;
 
 import java.util.ArrayList;
 

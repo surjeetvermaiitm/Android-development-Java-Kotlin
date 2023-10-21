@@ -1,4 +1,4 @@
-package com.mastercoding.broadcastapp;
+package com.example.broadcast_app;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

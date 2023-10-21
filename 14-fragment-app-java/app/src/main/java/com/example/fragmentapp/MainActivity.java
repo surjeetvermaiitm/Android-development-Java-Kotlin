@@ -1,4 +1,4 @@
-package com.mastercoding.fragmentsapp;
+package com.example.fragmentapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
