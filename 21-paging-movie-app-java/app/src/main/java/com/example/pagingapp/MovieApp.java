@@ -1,4 +1,4 @@
-package com.mastercoding.pagingapp;
+package com.example.pagingapp;
 
 import android.app.Application;
 

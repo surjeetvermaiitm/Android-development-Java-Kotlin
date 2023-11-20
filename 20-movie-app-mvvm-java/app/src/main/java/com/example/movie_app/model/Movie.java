@@ -1,4 +1,4 @@
-package com.mastercoding.themovieapp.model;
+package com.example.movie_app.model;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.widget.ImageView;
@@ -11,7 +11,7 @@ import androidx.databinding.BindingAdapter;
 import com.bumptech.glide.Glide;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import com.mastercoding.themovieapp.BR;
+import com.example.movie_app.BR;
 
 public class Movie extends BaseObservable{
 

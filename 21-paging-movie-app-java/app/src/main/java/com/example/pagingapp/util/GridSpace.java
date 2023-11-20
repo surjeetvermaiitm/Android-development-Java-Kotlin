@@ -1,4 +1,4 @@
-package com.mastercoding.pagingapp.util;
+package com.example.pagingapp.util;
 
 import android.graphics.Rect;
 import android.view.View;

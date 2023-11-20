@@ -1,21 +1,20 @@
-package com.mastercoding.pagingapp.activity;
+package com.example.pagingapp.activity;
+
+import android.os.Bundle;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.GridLayoutManager;
 
-import android.os.Bundle;
-import android.widget.Toast;
-
 import com.bumptech.glide.RequestManager;
-import com.mastercoding.pagingapp.R;
-import com.mastercoding.pagingapp.adapter.MoviesAdapter;
-import com.mastercoding.pagingapp.adapter.MoviesLoadStateAdapter;
-import com.mastercoding.pagingapp.databinding.ActivityMainBinding;
-import com.mastercoding.pagingapp.util.GridSpace;
-import com.mastercoding.pagingapp.util.MovieComparator;
-import com.mastercoding.pagingapp.util.Utils;
-import com.mastercoding.pagingapp.viewmodel.MovieViewModel;
+import com.example.pagingapp.adapter.MoviesAdapter;
+import com.example.pagingapp.adapter.MoviesLoadStateAdapter;
+import com.example.pagingapp.databinding.ActivityMainBinding;
+import com.example.pagingapp.util.GridSpace;
+import com.example.pagingapp.util.MovieComparator;
+import com.example.pagingapp.util.Utils;
+import com.example.pagingapp.viewmodel.MovieViewModel;
 
 import javax.inject.Inject;
 

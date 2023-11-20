@@ -1,9 +1,7 @@
-package com.mastercoding.pagingapp.model;
+package com.example.pagingapp.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-
-import java.util.Objects;
 
 public class Movie {
 

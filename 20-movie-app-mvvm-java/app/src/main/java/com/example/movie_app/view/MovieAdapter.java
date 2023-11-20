@@ -1,4 +1,4 @@
-package com.mastercoding.themovieapp.view;
+package com.example.movie_app.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.mastercoding.themovieapp.R;
-import com.mastercoding.themovieapp.databinding.MovieListItemBinding;
-import com.mastercoding.themovieapp.model.Movie;
+import com.example.movie_app.R;
+import com.example.movie_app.databinding.MovieListItemBinding;
+import com.example.movie_app.model.Movie;
 
 import java.util.ArrayList;
 

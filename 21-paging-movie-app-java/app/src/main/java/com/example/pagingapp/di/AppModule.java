@@ -1,11 +1,11 @@
-package com.mastercoding.pagingapp.di;
+package com.example.pagingapp.di;
 
 import android.content.Context;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.RequestManager;
 import com.bumptech.glide.request.RequestOptions;
-import com.mastercoding.pagingapp.R;
+import com.example.pagingapp.R;
 
 import javax.inject.Singleton;
 

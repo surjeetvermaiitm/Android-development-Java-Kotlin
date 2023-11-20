@@ -1,9 +1,9 @@
-package com.mastercoding.pagingapp.api;
+package com.example.pagingapp.api;
 
-import static com.mastercoding.pagingapp.util.Utils.API_KEY;
-import static com.mastercoding.pagingapp.util.Utils.BASE_URL;
+import static com.example.pagingapp.util.Utils.API_KEY;
+import static com.example.pagingapp.util.Utils.BASE_URL;
 
-import com.mastercoding.pagingapp.model.MovieResponse;
+import com.example.pagingapp.model.MovieResponse;
 
 import io.reactivex.rxjava3.core.Single;
 import okhttp3.HttpUrl;

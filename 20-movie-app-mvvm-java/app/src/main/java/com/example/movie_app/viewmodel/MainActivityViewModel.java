@@ -1,4 +1,4 @@
-package com.mastercoding.themovieapp.viewmodel;
+package com.example.movie_app.viewmodel;
 
 import android.app.Application;
 
@@ -7,8 +7,8 @@ import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.mastercoding.themovieapp.model.Movie;
-import com.mastercoding.themovieapp.model.MovieRepository;
+import com.example.movie_app.model.Movie;
+import com.example.movie_app.model.MovieRepository;
 
 import java.util.List;
 

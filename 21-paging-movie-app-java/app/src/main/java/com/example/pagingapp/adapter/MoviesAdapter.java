@@ -1,4 +1,4 @@
-package com.mastercoding.pagingapp.adapter;
+package com.example.pagingapp.adapter;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -9,8 +9,8 @@ import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.RequestManager;
-import com.mastercoding.pagingapp.databinding.SingleMovieItemBinding;
-import com.mastercoding.pagingapp.model.Movie;
+import com.example.pagingapp.databinding.SingleMovieItemBinding;
+import com.example.pagingapp.model.Movie;
 
 
 public class MoviesAdapter extends PagingDataAdapter<Movie, MoviesAdapter.MovieViewHolder> {

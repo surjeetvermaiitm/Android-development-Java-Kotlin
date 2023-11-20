@@ -1,4 +1,4 @@
-package com.mastercoding.themovieapp.serviceapi;
+package com.example.movie_app.serviceapi;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

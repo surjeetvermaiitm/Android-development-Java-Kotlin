@@ -1,12 +1,12 @@
-package com.mastercoding.themovieapp.model;
+package com.example.movie_app.model;
 
 import android.app.Application;
 
 import androidx.lifecycle.MutableLiveData;
 
-import com.mastercoding.themovieapp.R;
-import com.mastercoding.themovieapp.serviceapi.MovieApiService;
-import com.mastercoding.themovieapp.serviceapi.RetrofitInstance;
+import com.example.movie_app.R;
+import com.example.movie_app.serviceapi.MovieApiService;
+import com.example.movie_app.serviceapi.RetrofitInstance;
 
 import java.util.ArrayList;
 import java.util.List;

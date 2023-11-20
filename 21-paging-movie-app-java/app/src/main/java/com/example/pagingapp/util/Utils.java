@@ -1,4 +1,4 @@
-package com.mastercoding.pagingapp.util;
+package com.example.pagingapp.util;
 
 public class Utils {
     public static String API_KEY = "890a86f5656fdca2767b6be3222e3526";

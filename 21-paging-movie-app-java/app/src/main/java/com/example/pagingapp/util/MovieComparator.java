@@ -1,9 +1,9 @@
-package com.mastercoding.pagingapp.util;
+package com.example.pagingapp.util;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;
 
-import com.mastercoding.pagingapp.model.Movie;
+import com.example.pagingapp.model.Movie;
 
 public class MovieComparator extends DiffUtil.ItemCallback<Movie> {
     @Override

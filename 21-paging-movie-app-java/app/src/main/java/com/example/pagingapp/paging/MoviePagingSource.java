@@ -1,17 +1,16 @@
-package com.mastercoding.pagingapp.paging;
+package com.example.pagingapp.paging;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.paging.PagingState;
 import androidx.paging.rxjava3.RxPagingSource;
 
-import com.mastercoding.pagingapp.api.APIClient;
-import com.mastercoding.pagingapp.model.Movie;
-import com.mastercoding.pagingapp.model.MovieResponse;
+import com.example.pagingapp.api.APIClient;
+import com.example.pagingapp.model.Movie;
+import com.example.pagingapp.model.MovieResponse;
 
 import java.util.List;
 
-import io.reactivex.rxjava3.core.Scheduler;
 import io.reactivex.rxjava3.core.Single;
 import io.reactivex.rxjava3.schedulers.Schedulers;
 

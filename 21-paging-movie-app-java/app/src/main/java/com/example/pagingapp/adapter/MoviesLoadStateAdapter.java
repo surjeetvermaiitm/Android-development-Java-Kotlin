@@ -1,4 +1,4 @@
-package com.mastercoding.pagingapp.adapter;
+package com.example.pagingapp.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,8 +12,8 @@ import androidx.paging.LoadState;
 import androidx.paging.LoadStateAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.mastercoding.pagingapp.R;
-import com.mastercoding.pagingapp.databinding.LoadStateItemBinding;
+import com.example.pagingapp.R;
+import com.example.pagingapp.databinding.LoadStateItemBinding;
 
 public class MoviesLoadStateAdapter extends LoadStateAdapter<MoviesLoadStateAdapter.LoadStateViewHolder> {
 

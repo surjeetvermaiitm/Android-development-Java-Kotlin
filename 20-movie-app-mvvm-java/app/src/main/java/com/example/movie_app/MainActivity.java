@@ -1,4 +1,4 @@
-package com.mastercoding.themovieapp;
+package com.example.movie_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
@@ -12,10 +12,10 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.mastercoding.themovieapp.databinding.ActivityMainBinding;
-import com.mastercoding.themovieapp.model.Movie;
-import com.mastercoding.themovieapp.view.MovieAdapter;
-import com.mastercoding.themovieapp.viewmodel.MainActivityViewModel;
+import com.example.movie_app.databinding.ActivityMainBinding;
+import com.example.movie_app.model.Movie;
+import com.example.movie_app.view.MovieAdapter;
+import com.example.movie_app.viewmodel.MainActivityViewModel;
 
 import java.util.ArrayList;
 import java.util.List;

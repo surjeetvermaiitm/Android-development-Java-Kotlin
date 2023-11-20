@@ -1,6 +1,6 @@
-package com.mastercoding.themovieapp.serviceapi;
+package com.example.movie_app.serviceapi;
 
-import com.mastercoding.themovieapp.model.Result;
+import com.example.movie_app.model.Result;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
